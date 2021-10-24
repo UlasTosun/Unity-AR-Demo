@@ -5,6 +5,7 @@ A template and demo project for Unity AR. It includes both **AR face masks** and
 **You can find complete Unity project folder and APK files in [here.](https://drive.google.com/drive/folders/1i2yOfNnQE1zS0SvpaxxGSspGeX18gRMd?usp=sharing)**
 
 Project has been developed on Unity 2021.1.23f1. You can find package versions below. If you are facing with errors, **please check your Unity and package versions**. Please keep in my that using different versions may result with errors.
+
 <img src="/Images/Packages.png">
 
 Please be aware of that, **some Android devices does not support AR**. You can find the list of AR supported Android devices in [here.](https://developers.google.com/ar/devices?hl=en)
