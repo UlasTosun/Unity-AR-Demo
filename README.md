@@ -25,7 +25,12 @@ In addition, you will find a variable which is called as "Maximum Face Count" in
 This scene places objects in real world scenes by using AR. Project places a French battleship [Richelieu](https://en.wikipedia.org/wiki/French_battleship_Richelieu) instead of an ordinary object for more fun. Also, **you can even rotate her main turrets (the bigger turrets placed in front of the ship) and fire them.** 3D model of Richelieu is taken from [here.](https://p3dm.ru/files/boat/marine_military_equipment/11966-richelieu.html) I think that, the source of the model is [World of Warships.](https://worldofwarships.eu/en)
 
 
-To place and play with ships:
+An example video for 3D object placement with Richelieu:
+
+https://user-images.githubusercontent.com/40580957/138709352-b2f9f945-792d-4cf2-b094-f6b2f0e0fa72.mp4
+
+
+To place and play with Richelieu:
 1) Hold your phone in landscape position for this scene for better user experience.
 2) Wait until it detects and marks planes (do not get too close to planes).
 3) Once it marks planes, tap any plane to place objects.
